@@ -19,3 +19,4 @@ end;
 新的pubKey已经加入
 
 测试很多次，才成功！
+加入GitHub时的pubkey不带“==”之后的字串
